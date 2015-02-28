@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        style="@style/FAB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <com.gc.materialdesign.views.ButtonFloatSmall
+            android:id="@+id/become_driver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/red"
+            materialdesign:iconDrawable="@drawable/ic_directions_car_white_24dp" />
+
+        <com.gc.materialdesign.views.ButtonFloat
+            android:id="@+id/request_ride"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/spacing_normal"
+            android:background="@color/red"
+            materialdesign:iconDrawable="@drawable/ic_thumb_up_white_24dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
