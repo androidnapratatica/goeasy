@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support.test\testing-support-lib\0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\classes-4077707640f3f05045b1180e901eee551316a369.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2-e7c3bd7f8d895edfa053d6eaa9368fcd3d256738.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e2095347aa9c33370eb72fea3969c0a7254e168">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\classes-55998240e5f71afc03a677dd74ece9788e1f27ed.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-e59fbe64f4df9a81d66205cf59791af956c2c5b6.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\0.7.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e225a6bad465c11d3e5b891d10ded8064e7dc9c0">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-86aa8e856bb4e61618ea21368e0d039aec0971b8.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-408feff848c5b640d568e0a6897490d0c1a18984.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0c21085628478cc23a2b315f239290629e16e45f.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-bf9d245e5ede88d33564e032305136f202cbdfb0.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-9fca017b8262dac600eb912140a4972b52aa3ee9.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-29d0e7e46451a4061bf915d720d1fb4d7414fdae.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-f65139c66f55e256e999215c799898f31acb497c.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-3b15872f7333ff692266cffb2f987f089f330852.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.2\89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1\androidannotations-api-3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.2-77a6dec9ac6005b931f918d05a0743381a9ea277.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\libs\dexmaker-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4d5045fefa6d286c5ddf733e321fe6e5e632efb6">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\dexmaker-1.2-85f4aa8b8f8f3978a3b2e330e69597bb404e3cf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.mockito\mockito-core\1.10.19\e8546f5bef4e061d8dd73895b4e8f40e3fe6effe\mockito-core-1.10.19.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\mockito-core-1.10.19-325660200311b35e43ac69a035135e927e917722.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.1\87c0ea803b69252868d09308b4618f766f135a96\objenesis-2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\objenesis-2.1-86df747d9143504674092e4634d2fa9d8a34aef6.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\classes-d735a9ab4a165fb244150c7e7fc282ca5cd1ed8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\junit\junit-dep\4.10\64417b3bafdecd366afa514bd5beeae6c1f85ece\junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\junit-dep-4.10-da304b529d867c9d6825bf01b569020c9717bab0.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-1ae4b06ca9ec314810888ff703c6de6fc37c29e0.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\io.nlopez.smartlocation\library\3.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e12337c9e97c661ebb1b417dfd6b4302b284137">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-3bfb466186221bb86a9f97dcf8f75bdf53af940b.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-1ec04f908ee316c4f325e6c1d67123b7421468ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.2.0-5db6af2f7f15aa3103acc82cae76515192214c67.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a23acd7f2537a064ebd0143bbe0a261fced704e1.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-97314a8795ac1b261cb73d4a25ace4d28b5620b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\javawriter-2.1.1-1ad87b7ff496a3fb036399c7cb67176313feca92.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\libs\Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\Parse-1.8.2-b75a75f4b5d42f4b0f6c4cf3f9404e99606a54b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.1\8d47177aa4da0f259fc823a39736bad2f09993d5\hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\hamcrest-integration-1.1-1ccc5fba1bd1d61f1fea4f1d5ffcd1e1ee535bcc.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-8250554d70860eee9673fbc0c0143e29b750be25.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-9f6122f0adde6ec05b7847cc37c03bdfc2b997fb.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\libs\Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\Parse-1.8.2-5158f987c3d9229bdbf51551d0fcb4b49a577880.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\okio-1.2.0-1533c5c9042ad1c9a442143580c2745e19d5a0d1.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-f4bf86f5db5f19c84633d1938f3bb44c8d2eef8b.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-dabdcb977862e399e3a769c473dfde58406651f5.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\io.nlopez.smartlocation\library\3.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e12337c9e97c661ebb1b417dfd6b4302b284137">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-f71389bc5b698aa61c73bae80893011da9f5149f.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\library-2.4.0-dfa32eabb90624868261a57c34ac99322f040c61.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-da355e690feed707e69cdd222a2d9a4e862990bd.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-62c8f6547be8f40407421c1895cb9d8d5c2258d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\jsr305-2.0.1-e0f000630d1fcfe0d672254883a9a00a28746439.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.1\b988c01468e3398d46678a2eb48aeb5bde271e9f\hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\hamcrest-library-1.1-9b8be666ea934354c4c2ec79e183c12ee776ac45.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.jakewharton.hugo\hugo-annotations\1.2.1\b01150795c5cdca1eb7e501bf00f105ff0e31501\hugo-annotations-1.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\hugo-annotations-1.2.1-305d12261a5f5a651a693895d645f85c73fd8158.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-7d350f744f8e8d2c4ee7ad79343caafbb9f7d8fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\hamcrest-core-1.1-30bb4938f17b213c6f3e7698da57285ef24a2de5.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.5\39a8ff2d1f79267907f5573c090b342b040b9682\aspectjrt-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.5-18296cd1215718edc7e588425edf2dae0cffa256.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\libs\dexmaker-mockito-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b99884a4c6ef6335ba376f79aa79632b2421c17c">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\dexmaker-mockito-1.2-7f5f51a3f57622e6813dd7919f63806cc5045b1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\javax.annotation-api-1.2-70e80e47052882cfd47e3d4fc2acb0731937b846.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\libs\dexmaker-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4d5045fefa6d286c5ddf733e321fe6e5e632efb6">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\dexmaker-1.2-a071ac8d36201a038d624736dc0e29bf42b3b0d5.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\classes-5634f188540a0648399939ea99823b4dabc863bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-e611a79dadc19505590504367eab80c5e52240ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-a7f43ecae1371733dbded8767b303cff87232ec3.jar" />
+    </item>
+    <item
+        jar="C:\Users\biliboss\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\test\debug\javax.inject-1-f9f44dc055826cba8e3e62032b5ddb100eee7efc.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\0.7.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e225a6bad465c11d3e5b891d10ded8064e7dc9c0">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-af115e2ae912c049c5c659cdab4dae7f04b9e9a7.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8d0531dd0b45f22beb258fb7a4a47e84fdb577a1.jar" />
+    </item>
+    <item
+        jar="D:\goeasy_manha\app\libs\dexmaker-mockito-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b99884a4c6ef6335ba376f79aa79632b2421c17c">
+        <dex dex="D:\goeasy_manha\app\build\intermediates\pre-dexed\debug\dexmaker-mockito-1.2-58ab375d15c9ea18b38ee6faa37ee0affa4d1a9c.jar" />
+    </item>
+    <item
+        jar="D:\goeasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="D:\goeasy\app\build\intermediates\pre-dexed\debug\classes-5706163fbe43a7cc14f08d47edc647cc805cf9b6.jar" />
+    </item>
+
+</items>
