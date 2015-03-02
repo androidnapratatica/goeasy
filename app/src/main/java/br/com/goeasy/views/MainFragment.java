@@ -10,6 +10,7 @@ import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
 
 import br.com.goeasy.R;
+import br.com.goeasy.helpers.ViewHelper;
 import br.com.goeasy.interactors.MainInteractor;
 import hugo.weaving.DebugLog;
 
@@ -24,11 +25,7 @@ public class MainFragment extends Fragment {
 
     //Show this Fragment
     public static void show(Activity activity) {
-        FragmentTransaction transaction = activity.getFragmentManager().beginTransaction();
-        //transaction.setCustomAnimations(R.anim.enter_from_right, R.anim.exit_to_right);
-        MainFragment_ fragment = new MainFragment_();
-        transaction.replace(R.id.place_holder, fragment, MainFragment_.class.getName());
-        transaction.commit();
+        ViewHelper.createFragmentTransaction(activity, R.id.place_holder, MainFragment_.class.getName());
     }
 
     @AfterInject

@@ -10,6 +10,7 @@ import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
 
 import br.com.goeasy.R;
+import br.com.goeasy.helpers.ViewHelper;
 import br.com.goeasy.interactors.WaitAcceptInteractor;
 
 /**
@@ -23,11 +24,7 @@ public class WaitAcceptFragment extends Fragment {
 
     //Show this Fragment
     public static void show(Activity activity) {
-        FragmentTransaction transaction = activity.getFragmentManager().beginTransaction();
-        //transaction.setCustomAnimations(R.anim.enter_from_right, R.anim.exit_to_right);
-        WaitAcceptFragment_ fragment = new WaitAcceptFragment_();
-        transaction.replace(R.id.place_holder, fragment);
-        transaction.commit();
+        ViewHelper.createFragmentTransaction(activity, R.id.place_holder, WaitAcceptFragment_.class.getName());
     }
 
     @AfterInject
