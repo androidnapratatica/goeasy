@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <com.mapbox.mapboxsdk.views.MapView
+        android:id="@+id/main_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:accessToken="sk.eyJ1IjoiZGFya2VuZXMiLCJhIjoiV2lRNmJtayJ9.jFiu-EwOaFxcq8KDBExCPw"
+        mapbox:mapid="darkenes.l5dee34b"
+        mapbox:zoomLevel="17" />
 
     <LinearLayout
         style="@style/FAB"
